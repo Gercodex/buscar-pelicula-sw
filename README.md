@@ -1,4 +1,7 @@
 # buscar-pelicula-sw
+
+Aplicación que consume un OpenAPI (swapi.dev) de búsqueda de películas para la actividad del curso de java para el programa ONE y Alura Latam.
+
 Dependencias: gson-2.10.1
 
 Para compilar desde carpeta que contiene a /src con 'gson' en la misma carpeta:
