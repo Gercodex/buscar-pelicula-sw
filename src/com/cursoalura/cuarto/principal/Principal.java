@@ -78,7 +78,7 @@ public class Principal {
                 break;
             }
         }
-
+		scanner.close();
         System.out.println("Terminado.");
     }
 }
